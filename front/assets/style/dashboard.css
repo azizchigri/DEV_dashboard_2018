@@ -1,0 +1,8 @@
+.widget-config {
+    background-color: #11ffee00;
+    border: none;
+    color: darkslategrey;
+    padding: 12px 16px;
+    font-size: 16px;
+    cursor: pointer;
+}
